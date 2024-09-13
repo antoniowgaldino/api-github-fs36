@@ -1,0 +1,11 @@
+.barra {
+    padding: 20px 110px;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 3.5rem;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    color: rgb(17, 14, 31);
+}
